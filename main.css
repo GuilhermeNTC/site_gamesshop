@@ -68,7 +68,7 @@ form button{
     margin-bottom: 16px;
     font-family: "Bungee", sans-serif;
     font-weight: normal;
-    color: #182c61;
+    color: #ffffff;
 }
 
 section{
@@ -134,7 +134,7 @@ form button :hover{
     background-color: #0340cc;
 }
 
-input:focus, textarea:focus{
+textarea:focus{
     outline-color: #182c61;
 }
 
